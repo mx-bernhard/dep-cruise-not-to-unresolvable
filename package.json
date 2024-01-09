@@ -6,14 +6,11 @@
   "author": "Bernhard Jahn <bernhard.jahn@mobilex.eu>",
   "license": "MIT",
   "scripts": {
-    "cruise": "dependency-cruise packages"
+    "cruise": "dependency-cruise src"
   },
   "devDependencies": {
     "@chevrotain/types": "^11.0.3",
     "dependency-cruiser": "^16.0.0",
     "typescript": "5.3.3"
-  },
-  "workspaces": [
-    "packages/*"
-  ]
+  }
 }
