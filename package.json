@@ -8,6 +8,9 @@
   "scripts": {
     "cruise": "dependency-cruise src"
   },
+  "dependencies": {
+    "@devexpress/dx-grid-core": "4.0.6"
+  },
   "devDependencies": {
     "@chevrotain/types": "^11.0.3",
     "dependency-cruiser": "^16.0.0",

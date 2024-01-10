@@ -7,6 +7,11 @@
   resolved "https://packages.mobilexag.de/repository/npm-public/@chevrotain/types/-/types-11.0.3.tgz#f8a03914f7b937f594f56eb89312b3b8f1c91848"
   integrity sha512-gsiM3G8b58kZC2HaWR50gu6Y1440cHiJ+i3JUvcp/35JchYejb2+5MVeJK0iKThYpAa/P2PYFV4hoi44HD+aHQ==
 
+"@devexpress/dx-grid-core@4.0.6":
+  version "4.0.6"
+  resolved "https://packages.mobilexag.de/repository/npm-public/@devexpress/dx-grid-core/-/dx-grid-core-4.0.6.tgz#a71abe418747b0563f85ecaddcf7f2686ef1918d"
+  integrity sha512-X1m2Z5Ze/M+yPASdML6WxNlamdcZ73kROANZuf1FrmmFw3l38ELTJp4w5Qe8WKmfjtS2YvowllbDTrgCNyMpCw==
+
 acorn-jsx-walk@2.0.0:
   version "2.0.0"
   resolved "https://packages.mobilexag.de/repository/npm-public/acorn-jsx-walk/-/acorn-jsx-walk-2.0.0.tgz#a5ed648264e68282d7c2aead80216bfdf232573a"
